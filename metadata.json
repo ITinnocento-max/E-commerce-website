@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Vogue & Verve Fashion Store",
+  "description": "A premium, responsive fashion e-commerce platform featuring AI-powered styling advice, elegant glassmorphism UI, and robust admin management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
